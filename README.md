@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🌱  Formado bacharel em Educação Física e migrando para a área de T.I.
        Estudando programação e desenvolvimento na plataforma Rocketseat.
