@@ -8,9 +8,7 @@
        
 - 📫 E-mail: cassiano.junior@hotmail.com
  
-- LinkedIn: <a href="https://linkedin.com/in/cassiano-am-junior" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+- LinkedIn: <a href="https://linkedin.com/in/cassiano-am-junior" target="_blank">Cassiano Junior</a>
 
 
 
