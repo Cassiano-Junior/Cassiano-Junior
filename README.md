@@ -1,15 +1,14 @@
 ### Olá! 👋
 
 - 🔥 Desenvolvedor Front-End Jr
-- 
+ 
 - 🔭 Trabalhando atualmente em: Suscitar - Soluções em Blockchain
-- 
+ 
 - 🌱  Formado bacharel em Educação Física e atualmente trabalhando com programação e desenvolvimento.
        
 - 📫 E-mail: cassiano.junior@hotmail.com
-- <a href="https://linkedin.com/in/cassiano-am-junior" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-cassiano-am-junior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+ 
+- LinkedIn: linkedin.com/in/cassiano-am-junior
 
 
 ## 🛠 &nbsp;Tech Stack
