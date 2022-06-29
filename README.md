@@ -2,8 +2,6 @@
 
 - 🔥 Desenvolvedor Front-End Jr
  
-- 🔭 Trabalhando atualmente em: Suscitar - Soluções em Blockchain
- 
 - 🌱  Formado bacharel em Educação Física e atualmente trabalhando com programação e desenvolvimento.
        
 - 📫 E-mail: cassiano.junior@hotmail.com
