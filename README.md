@@ -4,7 +4,7 @@
  
 - 🌱  Formado bacharel em Educação Física e atualmente trabalhando com programação e desenvolvimento.
        
-- 📫 E-mail: cassiano.junior@hotmail.com
+- 📫 E-mail: cassianojr.job@gmail.com
  
 - LinkedIn: <a href="https://linkedin.com/in/cassiano-am-junior" target="_blank">Cassiano Junior</a>
 
