@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔥 Desenvolvedor Front-End Jr
+- 🔥 Desenvolvedor Full Stack Jr
        
 - 📫 E-mail: cassianojr.job@gmail.com
  
