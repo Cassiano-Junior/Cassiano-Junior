@@ -11,13 +11,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-ReactJS
-JavaScript
-HTML
-CSS
-Tailwind
-Nodejs
-SQL
+ReactJS |
+JavaScript |
+HTML |
+CSS |
+Nodejs |
+SQL |
 MongoDB
 
 
