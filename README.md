@@ -2,16 +2,16 @@
 
 - 🔥 Desenvolvedor Full Stack Jr
        
-- 📫 E-mail: cassianojr.job@gmail.com
+- 📫 E-mail: cassianojr.dev@gmail.com
  
-- LinkedIn: <a href="https://linkedin.com/in/cassiano-am-junior" target="_blank">Cassiano Junior</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/cassianojr-dev/" target="_blank">Cassiano Junior</a>
 
 
 
 
 ## 🛠 &nbsp;Tech Stack
 
-ReactJS |
+Python |
 JavaScript |
 HTML |
 CSS |
