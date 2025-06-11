@@ -12,7 +12,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 Python |
-ReactJs |
+React |
 JavaScript |
 HTML |
 CSS |
