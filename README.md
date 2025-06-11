@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔥 Desenvolvedor Full Stack Jr
+- 🔥 Desenvolvedor Full Stack
        
 - 📫 E-mail: cassianojr.dev@gmail.com
  
@@ -12,6 +12,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 Python |
+ReactJs |
 JavaScript |
 HTML |
 CSS |
